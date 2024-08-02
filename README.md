@@ -1,3 +1,0 @@
-# codespaces-templace
-# go
-# devcontainer
